@@ -94,8 +94,6 @@ mod <- lm(data = dat, num ~ vals1+vals2)
 summary(mod)
 
 
-
-
 # Overcoming Multicollinearity
 
 # Q: What is multicollinearity and why is it a problem?
