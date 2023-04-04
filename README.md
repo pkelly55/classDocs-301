@@ -230,7 +230,11 @@ Week # | Dates   | Topic | Reading|
 9 || No lab | |
 10 | 20 - 24 March | Using models, applying regression analysis |  |
 10 || [Lab assignment 05](https://classroom.github.com/a/951xTgKS) | |
-11 ||   |  |
-11 ||  | |
-12 ||   |  |
+11 | 27 - 31 March| Regression Model building, Talking about the test, Multivariate Models. [Activity06_linearModels](https://classroom.github.com/a/XK0TSfqG)  |  |
+11 || No lab | |
+12 | 3 - 7 April| Multivariate Regression models. Gender Roles analysis with [Lab assignment 06 (GroupWork)](https://classroom.github.com/a/fCCdjLge) |  |
 12 ||  | |
+13 ||   |  |
+13 ||  | |
+14 ||   |  |
+14 ||  | |
